@@ -1,3 +1,3 @@
 # README
 
-First test repo on the Complete Ruby on Rails Developer Course 
+First test repo on the Complete Ruby on Rails Developer Course
